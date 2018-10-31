@@ -1,6 +1,14 @@
 /*
   重置公共的样式
 */
+/* 让所有的表格内容都居中 */
+.table.table-bordered th,
+.table.table-bordered td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+
 a:link,
 a:visited,
 a:hover,
