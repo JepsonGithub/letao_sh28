@@ -166,3 +166,9 @@ img {
   height: 400px;
   background-color: skyblue;
 }
+
+.lt_content tbody img {
+  width: auto;
+  height: 50px;
+  margin: 0 auto;
+}
