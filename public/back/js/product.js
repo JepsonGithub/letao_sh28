@@ -234,7 +234,6 @@ $(function() {
     params += "&picName2="+ picArr[1].picName +"&picAddr2=" + picArr[1].picAddr;
     params += "&picName3="+ picArr[2].picName +"&picAddr3=" + picArr[2].picAddr;
 
-
     // 通过 ajax 提交
     $.ajax({
       type: "POST",
